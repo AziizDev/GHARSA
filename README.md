@@ -27,6 +27,8 @@ Upload a soil image to receive its type, fertility tips, and suggested crops.
  **Your plant leaf looks infected?**  
 Upload a leaf photo to get a diagnosis and treatment recommendation.
 
+**Use our platform to help you out!!**
+https://saints-financial-orlando-folder.trycloudflare.com/
 
 ---
 
